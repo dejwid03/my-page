@@ -1,0 +1,29 @@
+body
+{
+    background-color: rgb(161, 155, 155);
+}
+p.title
+{
+    font-size: 80px;
+    font-weight: bold;
+    text-align: center;
+}
+li.title
+{
+    font-size: 60px;
+    font-weight: bold;
+    
+    text-align: center;
+}
+li.offer
+{
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 900px;
+    
+}
+ul
+{
+    list-style-type: none;
+}
