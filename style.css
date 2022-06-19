@@ -86,7 +86,7 @@ ul li.menu a:hover
 }
 ul li.menu a:hover span
 {
-    transform: translateY(0) scale(6);
+    transform: translateY(0) scale(8);
 }
 ul li.menu a span:nth-child(1)
 {
