@@ -1,6 +1,7 @@
 body
 {
     background-color: rgb(161, 155, 155);
+    width: 100%;
 }
 
 p.title
@@ -11,6 +12,15 @@ p.title
     font-family: sans-serif;
     margin-left: auto;
     margin-right: auto;
+}
+
+div.menu
+{
+    padding: 10%;
+    background-image: url(screen1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 
 li.title
