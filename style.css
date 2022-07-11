@@ -79,31 +79,15 @@ p.contact
 
 a.fb
 {
-    background-color: whitesmoke;
-    text-decoration: none;
-    color: black;
-    float: center;
-    border: 1px solid;
-    padding: 5px;
     margin-left: 15px;
     margin-right: 15px;
-    padding-bottom: 20px;
-    padding-top: 20px;
     display: inline-flex;
 }
 
 a.tg
 {
-    background-color: whitesmoke;
-    text-decoration: none;
-    color: black;
-    float: center;
-    border: 1px solid;
-    padding: 5px;
     margin-left: 15px;
     margin-right: 15px;
-    padding-bottom: 20px;
-    padding-top: 20px;
     display: inline-flex;
 }
 
