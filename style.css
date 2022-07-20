@@ -94,11 +94,6 @@ a.tg
     display: inline-flex;
 }
 
-div.ad
-{
-    text-align: center;
-}
-
 h1.title1
 {
     font-size: 55px;
@@ -113,10 +108,9 @@ h1.title2
 }
 
 /*--------------------------------------*/
-nav{
-    display: inline-block;
-    
-    
+nav
+{
+    display: inline-block;    
 }
 /*--------------------------------------*/
 ul.menu
